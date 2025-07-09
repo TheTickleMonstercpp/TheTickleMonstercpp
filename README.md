@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tickle</h1>
-<h3 align="center">A passionate backend developer from Cyprus</h3>
+<h3 align="center">A passionate backend developer from Secret</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theticklemonstercpp&label=Profile%20views&color=0e75b6&style=flat" alt="theticklemonstercpp" /> </p>
 
@@ -7,15 +7,10 @@
 
 - 🔭 I’m currently workng on **a Remote Access Trojan**
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **a Botnet**
-
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me (Discord) **majonson**
 
-- ⚡ Fun fact **I am under 18!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
