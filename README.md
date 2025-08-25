@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tickle</h1>
+<h1 align="center">Hi 👋, I'm blacklines</h1>
 <h3 align="center">A passionate backend developer from Secret</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theticklemonstercpp&label=Profile%20views&color=0e75b6&style=flat" alt="theticklemonstercpp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theticklemonstercpp&label=Profile%20views&color=0e75b6&style=flat" alt="blackliness" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theticklemonstercpp" alt="theticklemonstercpp" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me (Discord) **majonson**
+- 📫 How to reach me (Discord) **blackliness**
 
 
 <h3 align="left">Connect with me:</h3>
